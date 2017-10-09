@@ -1,5 +1,5 @@
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:IsoscelesTriangle.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年10月8日下午11:42:04

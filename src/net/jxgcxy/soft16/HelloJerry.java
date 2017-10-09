@@ -1,5 +1,5 @@
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:HelloJerry.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年9月29日下午6:05:12
@@ -7,7 +7,7 @@
  *
 */
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:HelloJerry.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年9月29日下午6:05:11

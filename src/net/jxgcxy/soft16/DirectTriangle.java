@@ -1,5 +1,5 @@
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:DirectTriangle.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年10月9日上午11:22:01
@@ -7,7 +7,7 @@
  *
 */
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:DirectTriangle.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年10月9日上午11:22:01

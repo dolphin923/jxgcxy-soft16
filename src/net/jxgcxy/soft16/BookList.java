@@ -1,5 +1,5 @@
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:BookList.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年9月30日下午4:54:33
@@ -7,7 +7,7 @@
  *
 */
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:BookList.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年9月30日下午4:54:33

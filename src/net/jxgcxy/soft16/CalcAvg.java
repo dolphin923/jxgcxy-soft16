@@ -1,5 +1,5 @@
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:CalcAvg.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年10月9日上午9:29:33
@@ -7,7 +7,7 @@
  *
 */
 /**
- * Project Name:yanshixiangmu
+ * Project Name:fundamental
  * File Name:CalcAvg.java
  * Package Name:net.jxgcxy.soft16
  * Date:2017年10月9日上午9:29:33
